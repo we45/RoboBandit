@@ -19,3 +19,12 @@ Robot Framework Library for Python's BAndit SAST Tool
 
 * source code path: where your ruby source code is located currently
 * results path: where your results will be stored. An `.json` file is generated as outputs
+
+`run safety against python source`
+
+`| run safety against python source  | source code path  | results path`
+
+**please note that the `requirements.txt` file needs to be at the top level directory of `/src`**
+
+* source code path: where your ruby source code is located currently
+* results path: where your results will be stored. An `.json` file is generated as outputs
