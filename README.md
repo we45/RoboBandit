@@ -1,6 +1,6 @@
 ## RoboBandit
 
-Robot Framework Library for Python's BAndit SAST Tool
+Robot Framework Library for Python's Bandit SAST Tool and PyUP's Safety SCA tool
 
 **Supports Python 2.7.x for now**
 
