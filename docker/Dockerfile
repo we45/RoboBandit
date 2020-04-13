@@ -1,4 +1,4 @@
-FROM python:2.7.15-alpine3.8
+FROM python:3-alpine
 MAINTAINER Abhay Bhargav
 RUN pip install bandit safety
 RUN mkdir -p /results/ && mkdir -p /src/ && mkdir -p /runexec/

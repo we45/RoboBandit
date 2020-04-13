@@ -1,9 +1,9 @@
 *** Settings ***
-Library  /Users/abhaybhargav/Documents/Code/Python/RoboBandit/robobandit/RoboBandit.py
+Library  /Users/abhaybhargav/Documents/code/python/RoboBandit/robobandit/RoboBandit.py
 
 *** Variables ***
-${CODE_PATH}  /Users/abhaybhargav/Documents/Code/Python/defcon_app/app
-${RESULTS_PATH}  /Users/abhaybhargav/Documents/Code/Python/RoboBandit/test
+${CODE_PATH}  /Users/abhaybhargav/Documents/code/python/ThreatPlaybook/api
+${RESULTS_PATH}  /Users/abhaybhargav/Documents/code/python/RoboBandit/test
 
 *** Test Cases ***
 Run Bandit against Source Code

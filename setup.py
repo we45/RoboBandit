@@ -9,7 +9,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='RoboBandit',
-    version='1.1',
+    version='1.2',
     packages=[''],
     package_dir={'': 'robobandit'},
     url='https://www.github.com/we45/RoboBandit',
